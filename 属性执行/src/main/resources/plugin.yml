@@ -1,0 +1,4 @@
+name: UT
+version: '${project.version}'
+main: hakasenz.ut.UT
+api-version: 1.20

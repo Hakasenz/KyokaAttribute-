@@ -1,0 +1,4 @@
+name: UT
+version: '1.0-SNAPSHOT'
+main: hakasenz.ut.UT
+api-version: 1.20
